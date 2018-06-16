@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1526243192,
+	"version": 1529179333,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -89,6 +89,7 @@
 		"c2mp-net.js",
 		"c2mp-peer.js",
 		"c2mp.js",
-		"waker.js"
+		"waker.js",
+		"xd_connection.js"
 	]
 }
